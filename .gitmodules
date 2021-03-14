@@ -1,0 +1,4 @@
+[submodule "package-feeds"]
+	path = package-feeds
+	url = https://github.com/FireEater64/package-feeds.git
+	branch = local
